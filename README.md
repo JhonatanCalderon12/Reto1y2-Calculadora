@@ -2,5 +2,6 @@
 
 Integrantes:
 
-- Jhonatan Calderón
+- Jhonatan Raúl Calderón Acevedo
 - Andrés Mauricio Orozco
+- Andrés Camilo espitia pinilla
